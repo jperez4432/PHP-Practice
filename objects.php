@@ -26,7 +26,7 @@
                 return "true";
             } else 
             return "false";
-        }
+        } 
 
     }    
         $student1 = new Student("Juan", "Business", 3.9);
